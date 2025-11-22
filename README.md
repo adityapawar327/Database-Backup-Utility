@@ -6,6 +6,8 @@
 
 A robust, command-line interface (CLI) utility written in **Go** for backing up and restoring various databases. It supports multiple database management systems, local and cloud storage options, compression, and notifications.
 
+> 📚 **Project Reference**: This project is based on the [Database Backup Utility](https://roadmap.sh/projects/database-backup-utility) challenge from [roadmap.sh](https://roadmap.sh).
+
 ---
 
 ## 🚀 Features
